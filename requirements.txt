@@ -1,0 +1,4 @@
+tamga
+fastapi
+uvicorn
+python-dotenv
