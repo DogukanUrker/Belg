@@ -4,9 +4,6 @@ from ..dependencies.colors import colors, themes
 def staticBadgeGenerate(
     label: str = "Belg", text: str = ".dev", color: str = "rose", theme: str = "dark"
 ):
-    text, label = text.replace("-", " "), label.replace("-", " ")
-    text, label = text.replace("_", " "), label.replace("_", " ")
-    text, label = text.replace(".", " "), label.replace(".", " ")
     text, label = text.replace("%20", " "), label.replace("%20", " ")
 
     if theme not in themes:
