@@ -15,7 +15,7 @@ Under development 🚧
 [![Belg.dev](https://belg-api.vercel.app/badge/Belg/Blue/blue/dark)](https://belg-api.vercel.app/badge/Belg/Blue/blue/dark)
 [![Belg.dev](https://belg-api.vercel.app/badge/Belg/Indigo/indigo/dark)](https://belg-api.vercel.app/badge/Belg/Indigo/indigo/dark)
 [![Belg.dev](https://belg-api.vercel.app/badge/Belg/Violet/violet/dark)](https://belg-api.vercel.app/badge/Belg/Violet/violet/dark)
-[![Belg.dev](https://belg-api.vercel.app/badge/Belg/purple/purple/dark)](https://belg-api.vercel.app/badge/Belg/purple/purple/dark)
+[![Belg.dev](https://belg-api.vercel.app/badge/Belg/Purple/purple/dark)](https://belg-api.vercel.app/badge/Belg/purple/purple/dark)
 [![Belg.dev](https://belg-api.vercel.app/badge/Belg/Fuchsia/fuchsia/dark)](https://belg-api.vercel.app/badge/Belg/Fuchsia/fuchsia/dark)
 [![Belg.dev](https://belg-api.vercel.app/badge/Belg/Pink/pink/dark)](https://belg-api.vercel.app/badge/Belg/Pink/pink/dark)
 [![Belg.dev](https://belg-api.vercel.app/badge/Belg/Rose/rose/dark)](https://belg-api.vercel.app/badge/Belg/Rose/rose/dark)
