@@ -1,11 +1,13 @@
 from fastapi import FastAPI, Response
 
 from .services.staticBadge import staticBadgeGenerate
-from .utils.logger import logger
 
 app = FastAPI()
 
-logger.info("App is started")
+
+@app.get("/")
+def root():
+    return {"message": "Beg.dev"}
 
 
 @app.get("/badge/{label}/{text}/{color}/{theme}")
