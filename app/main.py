@@ -10,7 +10,7 @@ def root():
     return {"message": "Beg.dev"}
 
 
-@app.get("/badge/{label:path}/{text:path}/{color}/{theme}")
+@app.get("/badge/{label}/{text}/{color}/{theme}")
 def staticBadge(
     label: str = "Belg", text: str = ".dev", color: str = "rose", theme: str = "dark"
 ):
